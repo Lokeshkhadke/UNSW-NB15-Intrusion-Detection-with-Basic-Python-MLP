@@ -93,34 +93,16 @@ The model was rigorously evaluated on two testing sets:
 - **Recall Optimization:** 361 malicious connections were missed (focus for future work)
 - **Class Imbalance:** Some attack types were underrepresented in training data
 
-## 🔮 Future Enhancements
-
-1. **Advanced Architecture**
-   - Implement batch normalization for faster training
-   - Experiment with Swish activation functions
-   - Add dropout layers for better regularization
-
-2. **Data Optimization**
-   - Apply SMOTE for class imbalance mitigation
-   - Develop time-based feature engineering
-   - Create interaction features between packets and services
-
-3. **Deployment Ready**
-   - Implement online learning for evolving threats
-   - Create mistake-tracking system for continuous improvement
-   - Develop real-time monitoring capabilities
 
 ## 👨‍💻 Author
 
-**Lokesh Yuvraj Khadke** | MSc Artificial Intelligence
+**Lokesh k** | MSc Data Science
 
-I am a data scientist and machine learning enthusiast with a passion for building robust, explainable AI systems from the ground up. This project demonstrates my ability to implement complex machine learning algorithms without relying on high-level abstractions.
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/lokeshkhadke)
-- **Email:** [lkhadke32@outlook.com](mailto:lkhadke32@outlook.com)
-- **GitHub:** [View more projects](https://github.com/yourusername)
+- **LinkedIn:** (https://www.linkedin.com/in/lokeshkhadke)
+- **Email:** [lkhadke32@outlook.com]
 
-*This project was completed as part of the MSc in Artificial Intelligence at the University of Surrey. I am actively seeking opportunities in cybersecurity analytics, data science, and machine learning engineering where I can apply my skills to real-world challenges.*
+
 
 ---
 
@@ -136,7 +118,7 @@ network-ids-ml/
 └── README.md                  # This file
 ```
 
-### 🚀 Getting Started
+###  Getting Started
 
 1. **Install dependencies:**
    ```bash
@@ -154,4 +136,4 @@ network-ids-ml/
 
 ---
 
-**Note:** This implementation uses only basic Python libraries as required by the coursework constraints. For production systems, frameworks like TensorFlow or PyTorch would be recommended for maintainability and performance.
+**Note:** This project was completed as part of the MSc in Data Science(Module: AI and AI Programming) at the University of Surrey.This implementation uses only basic Python libraries as required by the coursework constraints. For production systems, frameworks like TensorFlow or PyTorch would be recommended for maintainability and performance.
